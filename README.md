@@ -28,4 +28,4 @@ Gen div Stats.csv
 - Estimates of epiphyllous population size dynamics
 - Genetic summary statistics
 - Population structure with individual-based clustering
-- Spatial autocorrelation and migration patterns https://github.com/adrielmsierra/Epiphyllous-bryophyte-demography-and-genetics/tree/main/Spatial%20autocorrelation%20and%20migration%20patterns
+- [Spatial autocorrelation and migration patterns]https://github.com/adrielmsierra/Epiphyllous-bryophyte-demography-and-genetics/tree/main/Spatial%20autocorrelation%20and%20migration%20patterns
