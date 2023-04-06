@@ -1,4 +1,4 @@
-# Epiphyllous-bryophyte-demography-and-genetics
+# Epiphyllous_bryophyte_demography_and_genetics
 Pipeline for the analysis of population demography and genetics of epiphyllous bryophyte in a fragmented landscape
 
 - Population density changes from long-term censuses of two epiphyllous bryophyte species
