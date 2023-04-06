@@ -25,7 +25,7 @@ Gen div Stats.csv
 
 # Scripts in this repository are organized in the following directories
 
-- Estimates of epiphyllous population size dynamics
-- Genetic summary statistics
-- Population structure with individual-based clustering
-- [Spatial autocorrelation and migration patterns]https://github.com/adrielmsierra/Epiphyllous-bryophyte-demography-and-genetics/tree/main/Spatial%20autocorrelation%20and%20migration%20patterns
+- [Estimates of epiphyllous population size dynamics](https://github.com/adrielmsierra/Epiphyllous-bryophyte-demography-and-genetics/tree/main/Estimates%20of%20epiphyllous%20population%20size%20dynamics)
+- [Genetic summary statistics](https://github.com/adrielmsierra/Epiphyllous-bryophyte-demography-and-genetics/tree/main/Genetic%20summary%20statistics)
+- [Population structure with individual-based clustering](https://github.com/adrielmsierra/Epiphyllous-bryophyte-demography-and-genetics/tree/main/Population%20structure%20with%20individual-based%20clustering)
+- [Spatial autocorrelation and migration patterns](https://github.com/adrielmsierra/Epiphyllous-bryophyte-demography-and-genetics/tree/main/Spatial%20autocorrelation%20and%20migration%20patterns)
