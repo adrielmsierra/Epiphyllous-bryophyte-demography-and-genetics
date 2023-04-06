@@ -23,9 +23,9 @@ Demographic dataset.csv
 - Genetic diversity parameters compiled by population
 Gen div Stats.csv
 
-# Scripts in this repositories are organized in the folowing directories
+# Scripts in this repository are organized in the following directories
 
 - Estimates of epiphyllous population size dynamics
 - Genetic summary statistics
 - Population structure with individual-based clustering
-- Spatial autocorrelation and migration patterns
+- Spatial autocorrelation and migration patterns https://github.com/adrielmsierra/Epiphyllous-bryophyte-demography-and-genetics/tree/main/Spatial%20autocorrelation%20and%20migration%20patterns
